@@ -1,0 +1,17 @@
+:root {
+  --primary-color: #023346;
+  --secondary-color: #dc9d50;
+  --accent-color-1: #7ba1ae;
+  --accent-color-2: #28628a;
+  --white-1: #fff;
+  --white-2: #f5f5f5;
+  --grey: #d5d5d5;
+  --red: #f47174;
+}
+
+@import "./common/Common.css";
+
+.App {
+  display: flex;
+  justify-content: center;
+}
